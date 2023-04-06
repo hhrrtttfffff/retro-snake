@@ -987,4 +987,4 @@ function getHighScore () {
         else
     alert('Your current high score is ' + localStorage.jsSnakeHighScore + '.'); });
 }
-getHighScore();
+getHighScore(1000);
